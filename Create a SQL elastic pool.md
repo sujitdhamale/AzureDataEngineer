@@ -1,11 +1,11 @@
 # Create a SQL elastic pool
 
 
-ADMIN_LOGIN="ServerAdmin"
-RESOURCE_GROUP=SujitResourceGroup
-SERVERNAME=FitnessSQLServer-01
-LOCATION=centralus
-PASSWORD=sujit@123
+ADMIN_LOGIN="ServerAdmin"  
+RESOURCE_GROUP=SujitResourceGroup  
+SERVERNAME=FitnessSQLServer-01  
+LOCATION=centralus  
+PASSWORD=sujit@123  
 
 
 ## Create a server named FitnessSQLServer-01.
